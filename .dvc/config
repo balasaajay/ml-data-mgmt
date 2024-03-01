@@ -1,0 +1,4 @@
+[core]
+    remote = s2_bucket
+['remote "s2_bucket"']
+    url = s3://ik-apr23-ajay/dvc-store
